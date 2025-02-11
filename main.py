@@ -24,7 +24,7 @@ async def translate_text(update: Update, context):
         translation = translator.translate(text)
         await update.message.reply_text(f"Tarjima: {translation}")
 
-TOKEN = "7851854889:AAGyyEWL6NUepspGZOedHHAsI0dpAE1fdX8"
+TOKEN = "Your TOKEN"
 
 application = Application.builder().token(TOKEN).build()
 application.add_handler(CommandHandler("start", start_fun))
