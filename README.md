@@ -7,5 +7,14 @@ first to run the bot
 
 2 terminal: ```pip install deep_translator``` 
 
+3 TOKEN : Your telegram bot token
+
+4 terminal: ```python main.py```
+
+5 see the bot: https://www.t.me/lessontelegram1011bot
+
+![image](https://github.com/user-attachments/assets/bb7b9eae-816d-47af-a2c2-18450d804305)
+
+
 
 
